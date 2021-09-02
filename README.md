@@ -2,11 +2,11 @@
 ## Heyyo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Zeynep!
 
 <a href="https://www.linkedin.com/in/zeynep-kambur-b71512192/">
-  <img align="left" width="24px" src="https://img.icons8.com/clouds/100/000000/linkedin.png" />
+  <img align="left" width="36px" src="https://img.icons8.com/clouds/100/000000/linkedin.png" />
 </a>
 
 <a href="mailto:zeynepkambur@icloud.com">
-  <img align="left" width="26px" src="https://img.icons8.com/clouds/100/000000/gmail-new.png" />
+  <img align="left" width="36px" src="https://img.icons8.com/clouds/100/000000/gmail-new.png" />
 </a>
 <br/>
 
